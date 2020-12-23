@@ -5,7 +5,7 @@
           appearance: none;
   background-color: #00BFFF;
   border: 2px solid red;
-  border-radius: 0.6em;
+  border-radius: 30%;
   color: #e74c3c;
   cursor: pointer;
   display: flex;
@@ -13,7 +13,7 @@
   font-size: 40px;
   font-weight: 10;
   line-height: 5;
-  width: 100px;
+  width: 500px;
   margin: 60px;
   padding: 5px 6px;
   text-decoration: none;
