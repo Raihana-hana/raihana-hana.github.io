@@ -4,7 +4,7 @@
      -moz-appearance: none;
           appearance: none;
   background-color: #00BFFF;
-  border: 2px solid #e74c3c;
+  border: 2px solid red;
   border-radius: 0.6em;
   color: #e74c3c;
   cursor: pointer;
