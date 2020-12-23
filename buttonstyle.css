@@ -4,8 +4,8 @@
      -moz-appearance: none;
           appearance: none;
   background-color: #00BFFF;
-  border: 2px solid red;
-  border-radius: 30%;
+  border: 2px solid blue;
+  border-radius: 3px;
   color: #e74c3c;
   cursor: pointer;
   display: center;
@@ -13,7 +13,7 @@
   font-size: 40px;
   font-weight: 10;
   line-height: 5;
-  width: 50%;
+  width: 100%;
   margin: 60px;
   padding: 5px 6px;
   text-decoration: none;
