@@ -27,6 +27,7 @@
   color: red;
   outline: 3;
   background-color: white;
+  border-radius: 10px;
 }
 
 .first {
