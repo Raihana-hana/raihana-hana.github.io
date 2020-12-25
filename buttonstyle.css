@@ -3,9 +3,9 @@
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-color: red;
-  border: 4px solid orange;
-  border-radius: 40px;
+  background-color: orange;
+  border: 4px solid red;
+  border-radius: 50px;
   color: white;
   cursor: pointer;
   display: center;
@@ -24,7 +24,7 @@
   align: center;
 }
 .btn:hover, .btn:focus {
-  color: red;
+  color: orange;
   outline: 3;
   background-color: white;
   border-radius: 10px;
