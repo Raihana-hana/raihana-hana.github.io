@@ -1,0 +1,24 @@
+#redbox {
+    background-color: tomato;
+    border-radius: 10px;
+}
+
+#orangebox {
+   background-color: orange;
+   border-radius: 10px;
+}
+
+#yellowbox {
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+#bluebox {
+  background-color: dodgerblue;
+  border-radius: 10px;
+}
+
+#greenbox {
+  background-color: #99ff66;
+  border-radius: 10px;
+}
