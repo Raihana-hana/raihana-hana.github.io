@@ -1,13 +1,14 @@
 .tmbl {
     width: 100%;
     background-color: dodgerblue;
-    color: green;
+    color: lime;
     font-family: Sans serif;
-    font-size: 37px;
+    font-size: 60px;
     border: 3px solid blue;
     border-radius: 40px;
     text-align: center;
     align-self: center;
+    height: 80lx;
     align: center;
     margin: 37px;
     display: center;
@@ -18,7 +19,7 @@
 
 .tmbl:focus, .tmbl:hover {
    color: dodgerblue;
-   background-color: green;
+   background-color: lime;
    border-radius: 65px;
 }
    
