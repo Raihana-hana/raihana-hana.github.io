@@ -9,22 +9,59 @@
     <title>OurCalculator</title>
     <link rel="shortcut icon" href="Catlogo.png">
     <link rel="icon" href='Catlogo.png>
-    <link rel="stylesheet" href="calc-1.css">
     <!-- Web App Settings -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    <style>
+ .numberPads{
+  width: 70px;
+  height: 70px;
+  font-family: arial;
+  font-size: 45px;
+  text-align: center;
+  color: white;
+  background-color: yellow;
+  display: inline-block;
+  margin: 20px;
+}
+.title{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 38px;
+  color: black;
+}
+body {
+  background-color: white;
+}
+main{ 
+  background-color: black;
+}
+.resultzz{
+  font-family: arial;
+  font-size: 30px;
+  background-color: red;
+  color: lime;
+  margin: 50px;
+}                          
+    </style>                      
 </head>
 <body>
   <header>
     <p class='title'>A CALCULATOR</p>                       
   </header>
   <!-- result section -->
-  <script src='calc-1.js></script>
   <p class='resultzz' id='result'></p>                  
   <main>
     <!-- number pads>
     <button class="numberPads>1</button>   
     <button class="numberPads>2</button>   
   </main>
+<!-- javascript -->
+<script>
+    var current_value = 0;
+
+    // displaying the result
+    document.getElementById('result').innerHTML = current_value;
+</script>   
 </body>
 </html>
