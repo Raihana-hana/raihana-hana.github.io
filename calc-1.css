@@ -6,4 +6,18 @@
   text-align: center;
   color: white;
   background-color: yellow;
+  display: inline-block;
+  margin: 20px;
+}
+.title{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 38px;
+  color: black;
+}
+body {
+  background-color: white;
+}
+main{ 
+  background-color: black;
 }
